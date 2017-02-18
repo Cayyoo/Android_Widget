@@ -3,3 +3,5 @@
  * 新建widget配置文件，本例中是xml文件夹下的widget_config.xml
  * 编写TimerService.java和WidgetProvider.java两个类
  * 在AndroidManifest.xml中注册TimerService和WidgetProvider并配置相关参数
+
+![用法](https://github.com/ykmeory/Widget/blob/master/widget_usage_steps_flow_chart.png "Widget开发步骤")
